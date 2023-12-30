@@ -5,8 +5,10 @@
 </em></p>
 
 [![Instagram: Sharan Poojari](https://img.shields.io/badge/-sharan03-blue?style=social&logo=instagram&logoColor=red&link=https://www.instagram.com/__.sharan03.__/)](https://www.instagram.com/__.sharan03.__/)
-[![Linkedin: Sharan Poojari](https://img.shields.io/badge/-sharanpoojari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharan-poojari-582656258/)](https://www.linkedin.com/in/sharan-poojari-582656258/)
+[![Linkedin: Sharan Poojari](https://img.shields.io/badge/-sharanpoojari-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharan-poojari-582656258/)](https://www.linkedin.com/in/sharan-poojari-582656258/)
+
 [![GitHub Sharan Poojari](https://img.shields.io/github/followers/sharanrp?label=follow&style=social)](https://github.com/SharanRP)
+[![Email: sharanrp35@gmail.com](https://img.shields.io/badge/-sharanrp35-red?style=social&logo=gmail)](mailto:sharanrp35@gmail.com)
 
 ### <img src="https://media.giphy.com/media/DPEFlZO4nJSZoqRfHv/giphy.gif" alt="GIF" width="50"> A little more about me... 
 

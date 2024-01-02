@@ -2,6 +2,7 @@
 </h2>
 <img align='right' src="https://media.giphy.com/media/wwgamp8bOsx8byvKTi/giphy.gif" width="290">
 <p><em>Sophomere at <a href="https://vjti.ac.in/">VJTI   . </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Postman student Expert <a href="https://vjti.ac.in/"> <img src="https://media.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif" width="30"></p></em> 
 </em></p>
 
 [![Instagram: Sharan Poojari](https://img.shields.io/badge/-sharan03-blue?style=social&logo=instagram&logoColor=red&link=https://www.instagram.com/__.sharan03.__/)](https://www.instagram.com/__.sharan03.__/)

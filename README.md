@@ -15,7 +15,7 @@
 
 ```javascript
 const Sharan = {
-  code: [Javascript, HTML, CSS, Python, Java],
+  code: [Javascript, HTML, CSS, Python, Java , C++],
   tools: [React, Node, React-flow, Styled-Components, API],
   Projects: {
                  VisualFlow: "Creates flowcharts and generates corresponding code",

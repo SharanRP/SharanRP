@@ -1,3 +1,6 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=SharanRP" alt="Profile Views">
+</div>
 <h2> Hi, I'm Sharan Poojari <img src="https://media.giphy.com/media/NAq0PgHZIICdpmZsmw/giphy.gif" width="50"> 
 </h2>
 <img align='right' src="https://media.giphy.com/media/wwgamp8bOsx8byvKTi/giphy.gif" width="290">

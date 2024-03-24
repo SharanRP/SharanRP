@@ -4,7 +4,7 @@
 <h2> Hi, I'm Sharan Poojari <img src="https://media.giphy.com/media/NAq0PgHZIICdpmZsmw/giphy.gif" width="50"> 
 </h2>
 <img align='right' src="https://media.giphy.com/media/wwgamp8bOsx8byvKTi/giphy.gif" width="290">
-<p><em>Sophomere at <a href="https://vjti.ac.in/">VJTI   . </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Sophomore at <a href="https://vjti.ac.in/">VJTI   . </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <p><em>Postman student Expert <a href="https://vjti.ac.in/"> <img src="https://media.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif" width="30"></p></em> 
 </em></p>
 
